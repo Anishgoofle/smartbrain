@@ -2,7 +2,7 @@
   "name": "facerecognitionbrain",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Anishgoofle.github.io/facerecognitionbrain/",
+  "homepage": "https://Anishgoofle.github.io/face-recognition-brain/",
   "dependencies": {
     "clarifai": "^2.8.1",
     "gh-pages": "^1.2.0",
