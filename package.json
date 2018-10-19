@@ -1,11 +1,12 @@
 {
-  "name": "facerecognitionbrain",
+  "name": "smartbrain",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Anishgoofle.github.io/face-recognition-brain/",
+  "homepage": "https://Anishgoofle.github.io/smartbrain/",
   "dependencies": {
     "clarifai": "^2.8.1",
     "gh-pages": "^1.2.0",
+    "npm": "^6.4.1",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-particles-js": "^2.3.0",
