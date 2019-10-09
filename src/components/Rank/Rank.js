@@ -1,18 +1,14 @@
-import React from 'react';
+import React from "react";
 
 const Rank = ({ name, entries }) => {
-
-	return (
-            
-            <div>
-            	<div className ='white f3'>
-              {`${name}, your picture count is..`}
-              </div>
-              <div className = 'white f1'>
-              {entries}
-              </div>
-           </div>
-       );
-}
+  /* jshint ignore:start */
+  return (
+    <div>
+      <div className="white f3">{`${name}, your picture count is..`}</div>
+      <div className="white f1">{entries}</div>
+    </div>
+  );
+  /* jshint ignore:end */
+};
 
 export default Rank;
