@@ -6,7 +6,7 @@
   "dependencies": {
     "clarifai": "^2.9.1",
     "gh-pages": "^2.0.1",
-    "npm": "^6.12.0",
+    "npm": "^6.13.4",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-particles-js": "^2.3.0",
